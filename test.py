@@ -1,1 +1,1 @@
-print ("hello MTG");
+print ("hello MTG Cloud")
